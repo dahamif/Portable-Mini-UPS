@@ -39,10 +39,10 @@ Developed as part of the 2nd semester project module.
 
 ## Images
 
-![Portable Mini UPS](images/product1.jpg)  
+
+
+<img src="images/product.jpg" alt="Portable Mini UPS" width="200"/>  
 *Portable Mini UPS fully assembled and ready to use.*
-
-
 
 ---
 
