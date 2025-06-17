@@ -1,0 +1,32 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Eclipse.PrjPcb]
+   Generated File[Eclipse.GTO]
+   Generated File[Eclipse.GTP]
+   Generated File[Eclipse.GTS]
+   Generated File[Eclipse.GTL]
+   Generated File[Eclipse.GBL]
+   Generated File[Eclipse.GBS]
+   Generated File[Eclipse.GBP]
+   Generated File[Eclipse.GBO]
+   Generated File[Eclipse.GM1]
+   Generated File[Eclipse.GM2]
+   Generated File[Eclipse.GM3]
+   Generated File[Eclipse.GM4]
+   Generated File[Eclipse.GM5]
+   Generated File[Eclipse.GM7]
+   Generated File[Eclipse.GM11]
+   Generated File[Eclipse.GM13]
+   Generated File[Eclipse.GM15]
+   Generated File[Eclipse.GM16]
+   Generated File[Eclipse.GPT]
+   Generated File[Eclipse.GPB]
+   Generated File[Eclipse.GM]
+   Generated File[Eclipse.EXTREP]
+   Generated File[Eclipse.REP]
+
+
+Files Generated   : 23
+Documents Printed : 0
+
+Finished Output Generation At 8:40:05 PM On 6/17/2025
