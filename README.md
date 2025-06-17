@@ -40,7 +40,7 @@ Developed as part of the 2nd semester project module.
 ## Images
 
 
-![product1](https://github.com/user-attachments/assets/6ab9426d-1b6f-4786-b745-fad94853bf9d)
+<img src="images/product1.jpg" width="400"/>
 
 
 
