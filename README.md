@@ -20,30 +20,29 @@ Developed as part of the 2nd semester project module.
 
 - **`pcb/`** — Main PCB design source file (`.PcbDoc`) for editing in Altium Designer  
 - **`pcb/project_outputs/`** — Manufacturing output files (Gerbers, drill files, mechanical layers) for PCB fabrication  
-- **`images/`** — Product photos and PCB pictures (used in documentation)  
+- **`images/`** — Product photos  
 - **`report/`** — Project report PDF and documentation files  
 
 ---
 
 ## Components Used
 
-| Component          | Specifications       | Unit Price (Rs.) | Total Price (Rs.) |
-|--------------------|----------------------|------------------|-------------------|
-| Buck Converter     | XL4015               | 320.00           | 640.00            |
-| Boost Converter    | LM2596, LM2577       | 1120.00          | 1120.00           |
-| BMS Module         | 2S, 5A               | 230.00           | 230.00            |
-| Batteries          | 3.7V, 3200mAh (×4)   | 600.00           | 2400.00           |
-| Other Components   | Diodes, MOSFETs, Resistors, LEDs | 600.00           | -                 |
+| Component          | Specifications       | 
+|--------------------|----------------------|
+| Buck Converter     | XL4015               | 
+| Boost Converter    | LM2596, LM2577       |
+| BMS Module         | 2S, 5A               | 
+| Batteries          | 3.7V, 3200mAh (×4)   | 
+| Other Components   | Diodes, MOSFETs, Resistors, LEDs | 
 
 ---
 
 ## Images
 
-![Portable Mini UPS](images/mini_ups_assembled.jpg)  
+![Portable Mini UPS](images/product1.jpg)  
 *Portable Mini UPS fully assembled and ready to use.*
 
-![PCB Top View](images/pcb_top.jpg)  
-*Top view of the PCB.*
+
 
 ---
 
